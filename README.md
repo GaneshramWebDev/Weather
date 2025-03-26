@@ -32,7 +32,7 @@ cd weather-app
 Pull requests are welcome! Feel free to improve the UI or add new features. ✨
 
 ## 📧 Contact
-For any suggestions or feedback, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any suggestions or feedback, reach out at gram00552@gmail.com
 
 ---
 🌍 Stay updated with the latest weather conditions anywhere, anytime! ❄️☀️
